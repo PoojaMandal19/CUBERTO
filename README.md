@@ -87,7 +87,7 @@ All design credits belong to **Cuberto**.
 **Pooja Mandal**
 
 - GitHub: https://github.com/PoojaMandal19
-- LinkedIn: https://www.linkedin.com/in/pooja-mandal-17b782345?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/pooja-mandal-17b782345/
 
 
 ## ⭐ Show your support
